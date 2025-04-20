@@ -1,0 +1,25 @@
+Task Manager Pro Max... lol
+Task Manager Pro Max is a simple command-line Python application designed to manage your daily tasks. It supports adding tasks, deleting tasks, marking tasks as complete, and viewing current and completed tasks. The program is designed for beginners to understand basic Python concepts like loops, functions, and input handling.
+
+Features
+Add a Task: Append a new task to your task list.
+Delete a Task: Remove an existing task from your list.
+Mark Task as Complete: Move a task from the "Current Tasks" list to the "Completed Tasks" list.
+View Tasks: Display both your current tasks and completed tasks.
+Exit: Quit the application.
+How to Use
+Clone the repository or download the Python script.
+Run the script in a Python IDE or terminal.
+Use the menu options to manage your tasks.
+Menu Options
+1: Add a new task to the list.
+2: Delete an existing task.
+3: Mark a task as completed.
+4: View your current and completed tasks.
+5: Exit the application.
+Code Concepts Covered
+List manipulation
+Function usage
+While loops and menu-driven input
+Basic input validation
+Using Python's print for immediate feedback
